@@ -1,1 +1,36 @@
-This web userhub functions as a sleek, dark-mode user directory application, retrieving its data from the JSONPlaceholder API to present a clean and professional interface. The core functionality revolves around displaying user information in a responsive card-based layout, where each card details a user's name, username, email, address, and phone number. Complementing this display, the hub includes a robust search feature that allows users to filter by name, email, or username, along with a "Sort by" option for organizing the list and a "Refresh Data" button to ensure the information is always current. Furthermore, the application is designed with "Error handling for network issues" in mind, ensuring a resilient user experience even when data fetching encounters problems.
+# 👥 UserHub (By Sanya)
+
+**UserHub** is a responsive web application that displays a dynamic directory of users in a sleek and organized card layout. The interface enables filtering and sorting based on user details such as name, username, email, city, or company. This project demonstrates strong UI/UX design using HTML, CSS, and JavaScript, making it suitable for internal dashboards or CRM-like systems.
+
+## ✨ Features
+
+- 🔍 **Search Users** by name, email, or username in real-time
+- 🗂 **Filter Options** to sort users by name, username, email, city, or company
+- 🧾 **Card Layout** showcasing user details including:
+  - Contact information
+  - Address
+  - Website
+  - Company details
+- ♻️ **Refresh Button** to reload and display the latest user data
+- 💻 Fully **responsive design** optimized for desktop and mobile
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **[JSONPlaceholder API](https://jsonplaceholder.typicode.com/users)** for dummy user data
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/your-username/userhub.git
+   cd userhub
+   
+
+## 📌 Use Cases
+Admin Dashboard
+Employee Directory
+CRM Tool UI
+Internal Web Portals
